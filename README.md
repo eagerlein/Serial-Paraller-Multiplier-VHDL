@@ -10,9 +10,9 @@ Version: 1.0
 Description:
 This repository contains all of the code in VHDL to construct a  4-BIT Serial-Parallel multiplier, tested in Modelsim.
  
-## Top entity: sp_multiplier.vhd
+> Top entity: sp_multiplier.vhd
 
-## Testbench: sp_multiplier_tb.vhd (tested in modelsim)
+> Testbench: sp_multiplier_tb.vhd (tested in modelsim)
 
 
 
