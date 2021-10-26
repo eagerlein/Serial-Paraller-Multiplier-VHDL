@@ -1,12 +1,9 @@
-# Serial-Paraller-Multiplier---VHDL
+# VHDL Series: Serial-Paraller Multiplier 
 4-bit serial-parallel multiplier in VHDL
 
 Date: 2020-04-08
-
 Author: Eduardo Gerlein
-
 Version: 1.0 
-
 Description:
 4-BIT Serial-Parallel multiplier
  
