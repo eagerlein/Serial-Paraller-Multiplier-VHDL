@@ -2,17 +2,19 @@
 4-bit serial-parallel multiplier in VHDL
 
 Date: 2020-04-08
+
 Author: Eduardo Gerlein
+
 Version: 1.0 
+
 Description:
-4-BIT Serial-Parallel multiplier
+This repository contains all of the code in VHDL to construct a  4-BIT Serial-Parallel multiplier, tested in Modelsim.
  
- Top entity: sp_multiplier.vhd
- 
- Testbench: sp_multiplier_tb.vhd (tested in modelsim)
+##Top entity: sp_multiplier.vhd
+
+##Testbench: sp_multiplier_tb.vhd (tested in modelsim)
 
 
-This repository contains all of the code and software labs for [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com)! All lecture slides and videos are available on the course website.
 
 
 ## Opening the labs in Google Colaboratory:
