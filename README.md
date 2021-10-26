@@ -1,13 +1,15 @@
 # VHDL Series: Serial-Paraller Multiplier 
 4-bit serial-parallel multiplier in VHDL
 
+##Version: 1.0 
 Date: 2020-04-08
 
 Author: Eduardo Gerlein
 
-Version: 1.0 
 
-Description:
+
+##Description:
+
 This repository contains all of the code in VHDL to construct a  4-BIT Serial-Parallel multiplier, tested in Modelsim.
  
 > Top entity: sp_multiplier.vhd
